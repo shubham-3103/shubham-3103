@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)>
+![MasterHead](https://web-dev.imgix.net/image/jL3OLOhcWUQDnR4XjewLBx4e3PC3/5bk29uMufFZlPD09mRxV.png?auto=format&w=1600)
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">I am a computer science engineer who is obsessed with competitive programming, and with the idea of using software to solve practical problems. I believe in the power of programming to transform and improve the lives of people around the world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
