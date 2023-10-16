@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Issues and employee tracking System](https://github.com/shubham-3103/Issue-and-employee-tracking-system)
+- 🔭 I’m currently working on [E-Waste Facility Locator](https://github.com/shubham-3103/EWasteFacilityLocator)
 
-- 🌱 I’m currently learning **NodeJS, expressJS, ReactJS, ReactNative**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Competitive Programming, Full Stack Web Development**
 
 - 📫 How to reach me **shubhamsharma31031991@gmail.com**
 
-- ⚡ Fun fact **I run everyday for 20 mins**
+- ⚡ Fun fact **Never allow the same bug to bite you twice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
